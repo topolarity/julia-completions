@@ -1,5 +1,3 @@
-name: julia-completions
-parent: default
 matches:
   - trigger: "\\bsansy "
     replace: "𝘆"
